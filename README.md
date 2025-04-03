@@ -1,2 +1,1 @@
-# xly
-test go  module
+go build -o tools.exe .\src\testGo\main.go 
